@@ -12,9 +12,9 @@ $ composer require boomboomlei/weather -vvv
 ```
 
 ## Usage
-
+```shell
 TODO
-
+```
 ## Contributing
 
 You can contribute in one of three ways:
