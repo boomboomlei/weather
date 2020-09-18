@@ -2,7 +2,7 @@
 
 <p align="center"> a weather sdk.</p>
 
-[![Build Status](https://travis-ci.org/overtrue/weather.svg?branch=master)](https://travis-ci.org/overtrue/weather)
+[![Build Status](https://travis-ci.org/boomboomlei/weather.svg?branch=master)](https://travis-ci.org/boomboomlei/weather)
 ![StyleCI build status](https://github.styleci.io/repos/296528474/shield) 
 
 ## Installing
